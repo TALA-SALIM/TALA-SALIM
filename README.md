@@ -14,7 +14,6 @@
 
 ###
 <h2 align="left">🛠️ I code with</h2>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
