@@ -13,6 +13,8 @@
 <p align="left">✨ Creating bugs since or whenever you started coding<br>📚 I'm currently learning Frontend Development (HTML, CSS, JavaScript) + APIs with Node.js & PostgreSQL</p>
 
 ###
+<h2 align="left">🛠️ I code with</h2>
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
